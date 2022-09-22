@@ -2,7 +2,7 @@
 Let's build a Python c-extension!
 
 ### CPP Header
-- `random_int.hpp`
+- `Random_Int.hpp`
 
 ### Python Extension
 - `Random_Int.pyx`
