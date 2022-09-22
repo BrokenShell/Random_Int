@@ -5,6 +5,6 @@ Let's build a Python c-extension!
 - `random_int.hpp`
 
 ### Python Extension
-- `random_int.pyx`
+- `Random_Int.pyx`
 - `setup.py`
 - `pyproject.toml`
