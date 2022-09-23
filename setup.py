@@ -12,5 +12,5 @@ setup(
             extra_compile_args=["-std=c++20"],
         ),
     ),
-    version="0.0.1",
+    version="0.0.2",
 )
